@@ -1,0 +1,4 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find Minimum and Maximum of Numbers\Find Minimum and Maximum of Numbers\obj\Debug\netcoreapp2.1\Find Minimum and Maximum of Numbers.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find Minimum and Maximum of Numbers\Find Minimum and Maximum of Numbers\obj\Debug\netcoreapp2.1\Find Minimum and Maximum of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find Minimum and Maximum of Numbers\Find Minimum and Maximum of Numbers\obj\Debug\netcoreapp2.1\Find Minimum and Maximum of Numbers.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find Minimum and Maximum of Numbers\Find Minimum and Maximum of Numbers\obj\Debug\netcoreapp2.1\Find Minimum and Maximum of Numbers.AssemblyInfo.cs
